@@ -1,0 +1,9 @@
+# Comments start with #
+# Blank lines ignored similarly
+
+# Localhost 
+127.0.0.0/8
+
+# Local address
+192.168.0.0/16
+
