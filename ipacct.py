@@ -96,6 +96,7 @@ if args.action == 'add':
             ip = baddr
             print("Free IP found! Address", ip)
             found = True
+            break
 
         if not found:
             print("No free IP's found, aborting :(", file=stderr)
